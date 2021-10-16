@@ -69,8 +69,13 @@ h1 {
 #point {
     position: absolute;
     list-style: none;
-    bottom: 20px;
-    left: 50%;
-    margin-left: -200px;
-    color: #3e4741;
+    bottom: 50px;
+    left: 10px;
+    color: #f55727;
+}
+
+#excel-file {
+    position: absolute;
+    top: 200px;
+    left: 100px;
 }
